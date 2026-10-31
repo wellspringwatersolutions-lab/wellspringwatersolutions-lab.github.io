@@ -102,3 +102,7 @@ a.contact-card:hover{border-color:var(--blue)}
  .cta-inner{grid-template-columns:1fr auto}.section{padding:5.5rem 0}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+
+/* bigger full logo in header */
+.brand-logo{height:84px;width:auto;display:block;margin:.35rem 0}
+@media(min-width:900px){.brand-logo{height:120px}.header-inner{min-height:132px}}
