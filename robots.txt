@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wellspringwatersolutions.com/sitemap.xml
+Sitemap: https://wellspringwatersolutions-lab.github.io/sitemap.xml
