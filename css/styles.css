@@ -122,3 +122,12 @@ a.contact-card:hover{border-color:var(--blue)}
 .salt-ad-more{display:block;margin-top:1.2rem;color:#7fe0ea;font-weight:700}
 .salt-ad-img img{width:100%;max-width:640px;height:auto;margin-inline:auto;display:block;filter:drop-shadow(0 28px 40px rgba(0,0,0,.45))}
 @media(min-width:900px){.salt-ad{padding:5rem 0}.salt-ad-inner{grid-template-columns:1fr 1.1fr}.salt-ad-copy{text-align:left}.salt-ad .eyebrow{justify-content:flex-start}.salt-ad-lead{margin-left:0}.salt-ad-logo img{width:300px}}
+
+/* Google map, reviews, and large action buttons */
+.btn-lg{font-size:1.15rem;padding:1rem 1.75rem;min-height:56px}
+.map-frame{border:1px solid var(--line);border-radius:var(--r);overflow:hidden;box-shadow:var(--shadow);background:var(--soft);max-width:900px;margin:0 auto}
+.map-frame iframe{display:block;width:100%;height:360px;border:0}
+.google-actions{display:flex;flex-wrap:wrap;gap:.75rem;margin:1.5rem auto 0;justify-content:center}
+.footer-google{margin-top:1rem}
+.site-footer .btn-primary{color:#fff;word-break:normal}
+.site-footer .btn-primary:hover{color:#fff}
