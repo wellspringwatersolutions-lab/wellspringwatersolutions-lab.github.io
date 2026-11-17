@@ -146,3 +146,4 @@ a.contact-card:hover{border-color:var(--blue)}
 .town-links{list-style:none;padding:0;margin:1rem 0 0;display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
 .town-links a{display:block;background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:1rem 1.2rem;font-weight:700;text-decoration:none;color:var(--navy);box-shadow:0 2px 0 rgba(2,23,68,.03)}
 .town-links a:hover{border-color:var(--teal-dk)}
+.hero h1{font-family:"Oswald","Arial Narrow",Impact,sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:.02em;line-height:1.02;font-size:clamp(2.8rem,8vw,4.8rem)}
