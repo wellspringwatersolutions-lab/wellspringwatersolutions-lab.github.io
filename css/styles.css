@@ -104,8 +104,8 @@ a.contact-card:hover{border-color:var(--blue)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 
 /* bigger full logo in header */
-.brand-logo{height:84px;width:auto;display:block;margin:.35rem 0}
-@media(min-width:900px){.brand-logo{height:120px}.header-inner{min-height:132px}}
+.brand-logo{height:120px;width:auto;display:block;margin:.35rem 0}
+@media(min-width:900px){.brand-logo{height:190px}.header-inner{min-height:200px}}
 
 /* salt delivery ad banner */
 .salt-ad{background:radial-gradient(900px 500px at 80% 40%,#0a5aa8 0,transparent 65%),linear-gradient(135deg,var(--navy),#03336f);color:#dbe7f5;padding:3.5rem 0;overflow:hidden}
